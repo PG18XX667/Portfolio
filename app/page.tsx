@@ -34,9 +34,9 @@ function App() {
           <p className="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">
             🌟 Hey Rockstars of Innovation! 🚀 Wei in the spotlight {"-"} your
             coding maestro and lab automation virtuoso. 💻✨ Shaping code into
-            pure brilliance, I'm all about the perfect fusion of creativity and
+            pure brilliance, I&apos;m all about the perfect fusion of creativity and
             precision. Whether crafting seamless web experiences or
-            orchestrating the symphony of lab automation, let's jam together and
+            orchestrating the symphony of lab automation, let&apos;s jam together and
             create something extraordinary! 🤖✨ #CodeRockstar
             #AutomationMaestro
           </p>
