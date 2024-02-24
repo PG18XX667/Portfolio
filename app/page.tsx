@@ -32,7 +32,7 @@ function App() {
             <div className="h-1 w-20 bg-green-600 rounded"></div>
           </div>
           <p className="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">
-            🌟 Hey Rockstars of Innovation! 🚀 Wei in the spotlight – your
+            🌟 Hey Rockstars of Innovation! 🚀 Wei in the spotlight {"-"} your
             coding maestro and lab automation virtuoso. 💻✨ Shaping code into
             pure brilliance, I'm all about the perfect fusion of creativity and
             precision. Whether crafting seamless web experiences or
